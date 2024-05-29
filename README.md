@@ -1,6 +1,6 @@
 # Software-Eng._I-Course-Works
 
-Week 1:
+Week 01:
 - [Zen of python](Semana_1/01.Zen_python.md) 
 - The summary of the reading : [The Software Crisis](Semana_1/02.Software_crisis.pdf)
 
@@ -11,10 +11,11 @@ Week 02:
   - MoSCoW [personal project.](semana_2/v01_Proyect_finanzas.pdf)
     
 - **04 - IEEE 830**
-  - [Ver detalles](PORTAFOLIO) 
+  - [Ver detalles](PORTAFOLIO_UI/04_IEEE-830.pdf) 
 
 Week 03:
 - **05 - Funcionalidad**
-  - [Ver detalles]()
+  - [Ver detalles](PORTAFOLIO_UI/03_MoSCoW_Proyect.pdf)
 - **06 - Backlog**
-  - [Ver detalles]()
+  - [Ver detalles](PORTAFOLIO_UI/07_Blacklog-Proyect.pdf)
+
