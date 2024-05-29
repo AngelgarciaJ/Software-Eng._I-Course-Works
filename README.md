@@ -11,7 +11,7 @@ Week 02:
   - MoSCoW [personal project.](semana_2/v01_Proyect_finanzas.pdf)
     
 - **04 - IEEE 830**
-  - [Ver detalles]() 
+  - [Ver detalles](PORTAFOLIO) 
 
 Week 03:
 - **05 - Funcionalidad**
