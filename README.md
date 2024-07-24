@@ -19,8 +19,7 @@ Week 03:
 - **06 - Backlog**
   - [Ver detalles](PORTAFOLIO_UI/07_Blacklog-Proyect.pdf)
 
-
-  Week 04:
+Week 04:
 - **07 - Backup**
   - [Ver detalles](backups)
 
