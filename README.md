@@ -25,7 +25,7 @@ Week 03:
   - [Ver detalles](backups)
 
 Proyecto final: Finanz365:
-- **Api **
+- **Api**
   - [Ver detalles](https://github.com/AngelgarciaJ/api_rest)
-- ** Plataforma web**
+- **Plataforma web**
   - [Ver detalles](https://github.com/AngelgarciaJ/Finanz365)
