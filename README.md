@@ -19,3 +19,13 @@ Week 03:
 - **06 - Backlog**
   - [Ver detalles](PORTAFOLIO_UI/07_Blacklog-Proyect.pdf)
 
+
+  Week 04:
+- **07 - Backup**
+  - [Ver detalles](backups)
+
+Proyecto final: Finanz365:
+- **Api **
+  - [Ver detalles](https://github.com/AngelgarciaJ/api_rest)
+- ** Plataforma web**
+  - [Ver detalles](https://github.com/AngelgarciaJ/Finanz365)
